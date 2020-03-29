@@ -27,8 +27,8 @@
     margin-left: 150px;
   }
 }
-/* ブレイクポイントが1000px以下のときのメディアクエリを設定してください */
-@media screen and (max-width: 500px) {
+/* ブレイクポイントが600px以下のときのメディアクエリを設定してください */
+@media screen and (max-width: 600px) {
   /* lessonクラスのCSSを指定してください */
   
   .top-wrapper {
